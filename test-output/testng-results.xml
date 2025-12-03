@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-12-03T14:35:37 EET" name="Default suite" finished-at="2025-12-03T14:36:07 EET" duration-ms="29295">
+  <suite started-at="2025-12-03T15:51:52 EET" name="Default suite" finished-at="2025-12-03T15:52:27 EET" duration-ms="35056">
     <groups>
     </groups>
-    <test started-at="2025-12-03T14:35:37 EET" name="Default test" finished-at="2025-12-03T14:36:07 EET" duration-ms="29295">
-      <class name="Mainpac.ABCclass">
-        <test-method is-config="true" signature="setup()[pri:0, instance:Mainpac.ABCclass@5745ca0e]" started-at="2025-12-03T14:35:37 EET" name="setup" finished-at="2025-12-03T14:35:50 EET" duration-ms="12608" status="PASS">
+    <test started-at="2025-12-03T15:51:52 EET" name="Default test" finished-at="2025-12-03T15:52:27 EET" duration-ms="35056">
+      <class name="TestPac.ProfileClass">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestPac.ProfileClass@491b9b8]" started-at="2025-12-03T15:51:52 EET" name="setup" finished-at="2025-12-03T15:52:09 EET" duration-ms="17483" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="sampleTest()[pri:0, instance:Mainpac.ABCclass@5745ca0e]" started-at="2025-12-03T14:35:50 EET" name="sampleTest" finished-at="2025-12-03T14:36:07 EET" duration-ms="16656" status="PASS">
+        <test-method signature="sampleTest()[pri:0, instance:TestPac.ProfileClass@491b9b8]" started-at="2025-12-03T15:52:09 EET" name="sampleTest" finished-at="2025-12-03T15:52:27 EET" duration-ms="17540" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- sampleTest -->
-      </class> <!-- Mainpac.ABCclass -->
+      </class> <!-- TestPac.ProfileClass -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
