@@ -12,7 +12,7 @@ import io.appium.java_client.AppiumDriver;
 	import java.net.MalformedURLException;
 	import java.net.URL;
 
-	public class ABCclass {
+	public class SetupClass {
 
 		AndroidDriver  driver;
 
